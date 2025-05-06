@@ -55,19 +55,6 @@ org:acme-corp "password" extension:json
 http.title:"Admin Login"
 ssl:"target.com" port:443
 ```
-
-## Configuration
-Edit `config.ini` to set:
-```ini
-[API_KEYS]
-github = your_github_token
-shodan = your_shodan_key
-
-[SETTINGS]
-default_delay = 1.5
-max_threads = 5
-```
-
 ## Legal & Ethics
 ⚠️ **Use Responsibly**
 - Only test systems you own or have permission to scan
