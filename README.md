@@ -98,25 +98,3 @@ Have questions? Open an issue.
 [![GitHub issues](https://img.shields.io/github/issues/Soldier-Sai/dork-hunter)](https://github.com/Soldier-Sai/dork-hunter/issues)
 [![GitHub forks](https://img.shields.io/github/forks/Soldier-Sai/dork-hunter)](https://github.com/Soldier-Sai/dork-hunter/network)
 ```
-
-### Key Sections Included:
-1. **Title & Badges** - With your GitHub username
-2. **Visual Demo** - Placeholder for your GIF/screenshot
-3. **Installation** - Clear setup instructions
-4. **Usage Examples** - For all supported engines
-5. **Dork Examples** - Ready-to-use templates
-6. **Legal Disclaimer** - Ethical usage notice
-7. **Contributing Guide** - Standard GitHub flow
-8. **License Reference** - Links to your MIT license
-
-### How to Use:
-1. Copy this entire template
-2. Create `README.md` in your project root
-3. Replace the demo GIF link with your actual demo
-4. Update API/config examples if needed
-5. Customize the "Dork Examples" section with your favorites
-
-For maximum impact:
-- Add a `demo.gif` showing the tool in action
-- Include sample dork files in `/dorks` directory
-- Enable GitHub Discussions for Q&A
