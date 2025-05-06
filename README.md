@@ -97,4 +97,3 @@ Have questions? Open an issue.
 [![GitHub contributors](https://img.shields.io/github/contributors/Soldier-Sai/dork-hunter)](https://github.com/Soldier-Sai/dork-hunter/graphs/contributors)
 [![GitHub issues](https://img.shields.io/github/issues/Soldier-Sai/dork-hunter)](https://github.com/Soldier-Sai/dork-hunter/issues)
 [![GitHub forks](https://img.shields.io/github/forks/Soldier-Sai/dork-hunter)](https://github.com/Soldier-Sai/dork-hunter/network)
-```
